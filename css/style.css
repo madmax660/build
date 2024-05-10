@@ -360,7 +360,7 @@
 
 
 .less-bright {
- filter: brightness(80%) contrast(107%);
+ filter: brightness(50%);
 
 }
 
@@ -369,5 +369,5 @@
 }
 
 .less-bright3 {
- filter: brightness(15%);
+ filter: brightness(50%);
 }
