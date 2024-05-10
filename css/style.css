@@ -367,3 +367,7 @@
 .less-bright2 {
  filter: brightness(75%);
 }
+
+.less-bright3 {
+ filter: brightness(15%);
+}
