@@ -32,7 +32,7 @@
 
  => PURCHASE CREDIT REMOVAL LICENSE ( https://htmlcodex.com/credit-removal )
 
-*************************************************************************************************
+*****************************************
 
 * ΠΝΕΥΜΑΤΙΚΆ ΔΙΚΑΙΏΜΑΤΑ
 
@@ -52,7 +52,7 @@
 χρησιμοποιώντας το όνομα ή τα σήματα της ChrisDLS χωρίς τη ρητή γραπτή συγκατάθεση της ChrisDLS.
 Οποιαδήποτε μη εξουσιοδοτημένη χρήση τερματίζει την άδεια χρήσης που χορηγείται από την ChrisDLS.
 
-*************************************************************************************************
+*****************************************
 
 * COPYRIGHT
 
@@ -72,5 +72,5 @@ without the express written consent of ChrisDLS. You may not use any meta tags o
 utilizing ChrisDLS' name or Marks without the express written consent of ChrisDLS.
 Any unauthorized use terminates the license granted by ChrisDLS.
 
-*************************************************************************************************
+*****************************************
 
