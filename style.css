@@ -4,6 +4,8 @@
     --secondary: #191C24;
     --light: #6C7293;
     --dark: #0b0c0e;
+    scrollbar-width: auto;
+    scrollbar-color: #ca7000 transparent;	
 }
 
 
